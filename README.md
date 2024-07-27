@@ -1,7 +1,9 @@
 # US_Housing_Trends
 Objective
 This project aims to identify and analyze the key factors that have influenced U.S. home prices nationally over the past 20 years. By building a robust data science model, we aim to predict future home prices based on these influential economic factors.
+
 Source of data collection:https://fred.stlouisfed.org/
+
 Steps
 1.Data Collection
 Home Prices Proxy: Utilized the S&P Case-Shiller Home Price Index, sourced from the Federal Reserve Economic Data (FRED) website, as a proxy for home prices.
