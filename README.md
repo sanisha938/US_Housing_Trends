@@ -13,18 +13,31 @@ Step 2:
 Key Factors: Gathered publicly available data on various factors influencing home prices nationally, including:
 
 The following variables are chosen for the study-
+
 *Unemployment Rate
+
 *Employment Rate
+
 *Per Capita GDP
+
 *Real Median Household Income
+
 *Construction Prices
+
 *CPI
+
 *Interest Rates
+
 *Number of new houses supplied
+
 *Working Population
+
 *Urban Population
+
 *Percentage of population above 65
+
 *Housing subsidies
+
 *Number of Households
 
 Step 3: Data Cleaning and Processing
@@ -38,12 +51,19 @@ Conducted EDA to understand the distribution of variables, identify correlations
 Step 5: Model Selection
 
 Explored various regression models, including:
+
 *Linear Regression
+
 *ElasticNet
+
 *Random Forest
+
 *Gradient Boosting
+
 *Support Vector Regression (SVR)
+
 *XGBoost
+
 
 Step 6: Model Training and Evaluation
 
