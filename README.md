@@ -2,7 +2,7 @@
 Objective:
 This project aims to identify and analyze the key factors that have influenced U.S. home prices nationally over the past 20 years. By building a robust data science model, we aim to predict future home prices based on these influential economic factors.
 
-Source of data collection:https://fred.stlouisfed.org/
+Source of data collection: https://fred.stlouisfed.org/
 
 Step 1: Data Collection
 
